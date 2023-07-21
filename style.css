@@ -95,7 +95,7 @@ span{
 .hover:hover:after{
     width: 100%;
 }
-.logos li a{
+.logos li a i{
      background-color:green;
 }
 a{
