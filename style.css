@@ -95,14 +95,10 @@ span{
 .hover:hover:after{
     width: 100%;
 }
-.logos li:hover{
+.logos li a:hover{
      background-color:green;
 }
 a{
     color: white;
 }
-@media screen (width:1338;) {
-    .sub_main{
-width: 100%;
-    }
-}
+
